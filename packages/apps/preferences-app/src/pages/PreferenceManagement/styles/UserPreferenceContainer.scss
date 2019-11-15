@@ -1,0 +1,22 @@
+.userPreference{
+    margin-top: 20px;
+    .userPreference__container--blue {
+        margin-bottom: 12px;
+        padding: 2px 2px 11px 2px;
+        border-radius: 7px;
+        background: #d2e2ef;
+    }
+    .userPreference__container--user {
+        border: 1px solid grey;
+        display: inline-block;
+        border-radius: 7px 7px 0px 0px;
+        padding: 10px 10px 0px 15px;
+        background: white;
+    }
+    .userPreference__container--table {
+        border: 1px solid grey;
+        padding: 10px;
+        border-radius: 0px 7px 7px 7px;
+        background: white;
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "buttons",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+      "prop-types": "15.6.1",
+      "react": "16.8.6",
+      "react-dom": "16.8.6"
+  }
+}
